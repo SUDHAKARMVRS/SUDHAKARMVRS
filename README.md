@@ -91,11 +91,6 @@ CNN + Transfer Learning (VGG16, ResNet50, MobileNet, InceptionV3)
 </p>
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SUDHAKARMVRS&theme=onedark&no-frame=true" />
-</p>
 
 ## 📊 Most Used Languages
 
@@ -103,11 +98,7 @@ CNN + Transfer Learning (VGG16, ResNet50, MobileNet, InceptionV3)
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SUDHAKARMVRS&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SUDHAKARMVRS/SUDHAKARMVRS/main/dist/github-contribution-grid-snake.svg" />
-</p>
 
 
 
