@@ -109,11 +109,6 @@ CNN + Transfer Learning (VGG16, ResNet50, MobileNet, InceptionV3)
   <img src="https://raw.githubusercontent.com/SUDHAKARMVRS/SUDHAKARMVRS/output/github-contribution-grid-snake.svg" />
 </p>
 
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SUDHAKARMVRS/SUDHAKARMVRS/main/dist/github-contribution-grid-snake.svg" />
-</p>
+>
 
 
