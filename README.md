@@ -57,24 +57,7 @@
   <img src="https://img.shields.io/badge/Streamlit-A230ED?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
-## 🛠 Tech Stack
 
-### 👨‍💻 Programming & Data
-<p>
-<img src="https://skillicons.dev/icons?i=python,sql,postgres,git" />
-</p>
-
-### 📊 Visualization
-<p>
-<img src="https://skillicons.dev/icons?i=powerbi,tableau" />
-</p>
-
-### 🤖 Machine Learning
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
-</p>
-
----
 
 ## 📌 Featured Projects
 
@@ -109,13 +92,6 @@ CNN + Transfer Learning (VGG16, ResNet50, MobileNet, InceptionV3)
 
 ---
 
-## 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUDHAKARMVRS&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 
 
