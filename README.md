@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm Sudhakar M
+  Hi 👋, I'm Sudhakar 
 </h1>
 
 <h3 align="center">
@@ -36,6 +36,26 @@
 </p>
 
 ---
+## 🧰 Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,react,pytorch,tensorflow,git,github,mysql,postgres,anaconda,aws,vscode&theme=dark" />
+</p>
+
+<p align="center">
+  <img width="48" height="48" src="https://img.icons8.com/color/48/streamlit.png" alt="streamlit"/>
+</p>
+
+
+<!-- Skills Badges -->
+<!--## <span style="color:#A230ED">🚀 Skills & Tools</span>-->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-A230ED?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-A230ED?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-A230ED?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-A230ED?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-A230ED?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
 
 ## 🛠 Tech Stack
 
