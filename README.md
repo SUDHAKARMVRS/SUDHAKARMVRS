@@ -86,11 +86,22 @@ CNN + Transfer Learning (VGG16, ResNet50, MobileNet, InceptionV3)
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SUDHAKARMVRS&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUDHAKARMVRS&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SUDHAKARMVRS&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=SUDHAKARMVRS&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SUDHAKARMVRS&theme=onedark&no-frame=true" />
 </p>
 
----
+## 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SUDHAKARMVRS&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ## 🐍 Contribution Snake
 
@@ -99,6 +110,10 @@ CNN + Transfer Learning (VGG16, ResNet50, MobileNet, InceptionV3)
 </p>
 
 
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SUDHAKARMVRS/SUDHAKARMVRS/main/dist/github-contribution-grid-snake.svg" />
+</p>
 
 
