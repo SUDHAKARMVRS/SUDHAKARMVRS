@@ -97,29 +97,6 @@ CNN + Transfer Learning (VGG16, ResNet50, MobileNet, InceptionV3)
 
 ---
 
-## 🐍 Contribution Snake Animation
 
-```markdown
-Add this file in:
-.github/workflows/snake.yml
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: SUDHAKARMVRS
-          outputs: dist/github-contribution-grid-snake.svg
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SUDHAKARMVRS/SUDHAKARMVRS/output/github-contribution-grid-snake.svg" />
-</p>
 
 
